@@ -55,3 +55,4 @@ Interactive Streamlit app that retrieves transcripts for public YouTube videos, 
 - Multi-language transcript support with automatic language detection.
 - Persisting FAISS indexes for offline reuse.
 - Support for batching multiple videos into a single knowledge base.
+# youtubevideoQ-Abot
